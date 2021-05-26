@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "prismjs": "^1.23.0",
+    "vue": "^2.6.11",
+    "vue-prism-editor": "^1.2.2",
+    "vue-quill-editor": "^3.0.6",
+    "vue2-editor": "^2.10.2"
+  }
+}
